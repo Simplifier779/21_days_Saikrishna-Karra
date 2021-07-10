@@ -6,3 +6,4 @@ Day 1: Created a GIT HUB account and a repository.
 Day 2:Revised the basics of Python.
 Day 3:Revised loops,Regex and functions of Python.
 Day 4:Revised Inheritance and Classes in Python.
+Day 5:Revised File Handling and Exception Handling in Python.
