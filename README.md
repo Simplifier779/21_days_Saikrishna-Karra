@@ -8,3 +8,4 @@ Day 3:Revised loops,Regex and functions of Python.
 Day 4:Revised Inheritance and Classes in Python.
 Day 5:Revised File Handling and Exception Handling in Python.
 Day 6:Finished Python revision completely.
+Day 7:Understood roughly Numpy Arrays and Vectors.
