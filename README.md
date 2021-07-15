@@ -11,3 +11,4 @@ Day 6:Finished Python revision completely.
 Day 7:Understood roughly Numpy Arrays and Vectors.
 Day 8:Gained a lot more clarity on Numpy.
 Day 9:Watched vids on Pandas.
+Day 10:Understood Pandas better.
