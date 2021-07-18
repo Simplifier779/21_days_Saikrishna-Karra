@@ -14,3 +14,4 @@ Day 9:Watched vids on Pandas.
 Day 10:Understood Pandas better.
 Day 11:Did study more on Pandas.
 Day 12:Watched videos on Matplotlib
+Day 13:Revised Numpy.
