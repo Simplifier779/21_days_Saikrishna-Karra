@@ -17,3 +17,4 @@ Day 12:Watched videos on Matplotlib
 Day 13:Revised Numpy.
 Day 14:Revised Pandas.
 Day 15:Revised Mathplotlib
+Day 16:Revising stuff and going through vids of the same.
