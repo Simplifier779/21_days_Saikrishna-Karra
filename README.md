@@ -18,3 +18,4 @@ Day 13:Revised Numpy.
 Day 14:Revised Pandas.
 Day 15:Revised Mathplotlib
 Day 16:Revising stuff and going through vids of the same.
+Day 17:Watched videos on seaborn
