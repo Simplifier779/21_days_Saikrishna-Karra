@@ -19,3 +19,6 @@ Day 14:Revised Pandas.
 Day 15:Revised Mathplotlib
 Day 16:Revising stuff and going through vids of the same.
 Day 17:Watched videos on seaborn
+Day 18:Revised seaborn.
+Day 19:Revising stuff.
+Day 20:Revising seaborn again.
