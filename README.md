@@ -22,3 +22,4 @@ Day 17:Watched videos on seaborn
 Day 18:Revised seaborn.
 Day 19:Revising stuff.
 Day 20:Revising seaborn again.
+Day 21:Ready for doing a project.Have completed the revision.
